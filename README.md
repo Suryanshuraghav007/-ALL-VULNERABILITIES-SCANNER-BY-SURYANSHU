@@ -56,26 +56,27 @@ Refer to the respective tool documentation for installation instructions.
    cd -ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU
     ```
     ```
-   chmod +x bug_bounty_script.sh
+   chmod +x ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU-RAGHAV.sh
+    
     ```
    
     
     To scan multiple target domains listed in a file:
     ```
-   ./bug_bounty_script.sh -l domains.txt
+   ./ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU-RAGHAV.sh -l domains.txt
    ```
    To scan a single target domain and specify the output directory:
    ```
-   ./bug_bounty_script.sh -d example.com -o output_directory
+   ./ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU-RAGHAV.sh -d example.com -o output_directory
    ```
    To scan a single target domain and specify the output directory:
    ```
-   ./bug_bounty_script.sh -d example.com -o output_directory
+   ./ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU-RAGHAV.sh -d example.com -o output_directory
 
  
   To adjust the number of threads for Nmap and Dirb:
   ```
-   ./bug_bounty_script.sh -nt 50 -dt 5
+   ./ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU-RAGHAV.sh -nt 50 -dt 5
  ```
    
 
@@ -87,21 +88,16 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 `This Repo is maintained by : `
 
-- [Shubham Rooter](https://github.com/shubham-rooter)
+- [Suryanshu Raghav](https://github.com/Suryanshuraghav007)
 
 ### Author :
 
-**Shubham Rooter**
+**Suryanshu Raghav**
 
-* [Github](https://www.github.com/shubham-rooter)
-* [Twitter](https://www.twitter.com/shubhamtiwari_r)
-* [Instagram](https://www.instagram.com/shubham_rooter)
-* [Linkdin](https://www.linkedin.com/in/shubham-tiwari09/)  
+* [Github]([https://www.github.com/shubham-rooter](https://github.com/Suryanshuraghav007))
+* [Twitter]([https://www.twitter.com/shubhamtiwari_r](https://x.com/SURYANSHURAGHA2))
+* [Linkdin]([https://www.linkedin.com/in/shubham-tiwari09/](https://www.linkedin.com/in/suryanshu-raghav-14273a228/))  
 
-### License :
 
-Copyright © 2023, [Shubham Rooter](https://github.com/Shubham-Rooter).
-Released under the [MIT License](LICENSE).
-
-***Thankyou.***
-***Happy Hunting..***
+***Be consisent and hardworking in life***
+***Enjoy Bug Hunting..***
