@@ -49,11 +49,11 @@ Refer to the respective tool documentation for installation instructions.
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/bug-bounty-script.git
+   git clone https://github.com/Suryanshuraghav007/-ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU.git
    
    ```
    ```
-   cd bug-bounty-script
+   cd -ALL-VULNERABILITIES-SCANNER-BY-SURYANSHU
     ```
     ```
    chmod +x bug_bounty_script.sh
